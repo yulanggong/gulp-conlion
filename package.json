@@ -1,0 +1,28 @@
+{
+  "name": "gulp-conlion",
+  "version": "1.0.0",
+  "description": "Concat lodash templates into a .js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yulanggong/gulp-conlion.git"
+  },
+  "keywords": [
+    "lodash",
+    "templates",
+    "concat"
+  ],
+  "author": "yulanggong@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yulanggong/gulp-conlion/issues"
+  },
+  "homepage": "https://github.com/yulanggong/gulp-conlion#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through": "^2.3.8"
+  }
+}
